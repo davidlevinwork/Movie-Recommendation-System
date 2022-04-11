@@ -1,5 +1,3 @@
-# David Levin 316554641
-
 import pandas as pd
 from math import sqrt
 from sklearn.metrics import mean_squared_error
